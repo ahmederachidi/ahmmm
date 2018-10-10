@@ -65,4 +65,4 @@ function timerFunc() {
 
 var timer = setTimeout(timerFunc, 1000);
 
-client.login("NDgzMzIwNDYzNTMyMDk3NTQ3.Do1iVQ.vQZzIdXqf6OqZsQYj6xDhH7ICjM")
+client.login("")
